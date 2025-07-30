@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root {
+  --nav-color: #1c2029;
+}
+
+body {
+  background: black;
+  color: white;
+}
